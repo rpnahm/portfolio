@@ -1,0 +1,11 @@
+schedule balanced
+submit scarlet.txt
+submit alice.txt
+submit doll.txt
+submit atheism.txt
+submit jekyll.txt
+submit wells.txt
+list
+nthreads 1
+waitall
+list

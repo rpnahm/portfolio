@@ -1,0 +1,16 @@
+submit alice.txt
+submit doll.txt
+submit atheism.txt
+submit jekyll.txt
+submit wells.txt
+delete 1
+delete 5
+list
+delete 3
+nthreads 5
+submit alice.txt
+submit wells.txt
+list
+waitall
+delete 2
+list
