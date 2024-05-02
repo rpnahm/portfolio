@@ -1,4 +1,7 @@
-# Ryan Nahm - Project 3
+# Thread Management Project
+This project uses X11 to display the Mandelbrot fractal on your screen.
+The final executable, fractal task breaks the work up into jobs of 20x20 pixels, and then has a specified number of threads work on each block for maximum performance. 
+- The purpose of this project was to practice using mutex and conditional variables to handle multithreaded processing of a single job.
 
 ## Input
     Make sure that the graphics window is in focus in order for it to capture any keyboard input. 
